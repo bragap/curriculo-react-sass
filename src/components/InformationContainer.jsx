@@ -22,7 +22,7 @@ function InformationContainer() {
         </div>
         <div className="info-card">
             <MdOutlineMailOutline id="email-icon" />
-            <div>
+            <div className="email-section">
                 <h3>E-mail</h3>
                 <p>pcastro@sga.pucminas.br</p>
             </div>

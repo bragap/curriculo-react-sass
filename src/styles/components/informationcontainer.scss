@@ -42,13 +42,19 @@
         }
         #email-icon{
             color:#6ab5b9;
-            width: 100%;
         }
         #pin-icon{
             color:#c17ceb;
         }
     }
 
+
+    @media (max-width: 1600px) {
+        .email-section{
+            width: 30%;
+        }
+        
+    }
 
 
 
