@@ -13,7 +13,7 @@ function Sidebar() {
     <p className="title">Desenvolvedor Web com <br></br>Especialização em React e Sass</p>
     <SocialNetworks/>
     <InformationContainer/>
-    <a href="https://drive.google.com/file/d/1-Gb65gQNOLLobdWmh1YM7fpEcY56bTPq/view?usp=sharing" target="_blank" className="btn">Download currículo</a>
+    <a href="https://drive.google.com/file/d/1fQeOu9aGdxAyEL5MeXlq9HHA-_xhvzym/view?usp=sharing" target="_blank" className="btn">Download currículo</a>
 
   </aside>
 }
